@@ -10,10 +10,12 @@
 
         <div class="container" data-aos="fade-up" data-aos-delay="100">
             <h2>Freelancer Sabid</h2>
-            <p>I'm <span class="typed"
-                    data-typed-items="Designer, Developer, Freelancer, Philoshopher">Designer</span><span
-                    class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span
-                    class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+            <p>I'm
+                <span class="typed"
+                    data-typed-items="Web Designer, Web Developer, WordPress Expert,PHP Expert, Laravel Expert, Professional Freelancer,Philoshopher"></span>
+                <span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
+                
+            </p>
         </div>
 
     </section><!-- /Hero Section -->
@@ -314,15 +316,15 @@
 
                 <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
                     <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-product">Product</li>
-                    <li data-filter=".filter-branding">Branding</li>
-                    <li data-filter=".filter-books">Books</li>
+                    <li data-filter=".filter-laravel">Laravel</li>
+                    <li data-filter=".filter-wordpress">WordPress</li>
+                    <li data-filter=".filter-php">PHP</li>
+                    <li data-filter=".filter-frontend">Frontend</li>
                 </ul><!-- End Portfolio Filters -->
 
                 <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-frontend">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -331,13 +333,13 @@
                                 <a href="assets/img/portfolio/app-1.jpg" title="App 1"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-frontend">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -346,13 +348,13 @@
                                 <a href="assets/img/portfolio/product-1.jpg" title="Product 1"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-laravel">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -361,13 +363,13 @@
                                 <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-php">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-1.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -376,13 +378,13 @@
                                 <a href="assets/img/portfolio/books-1.jpg" title="Branding 1"
                                     data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -391,13 +393,13 @@
                                 <a href="assets/img/portfolio/app-2.jpg" title="App 2"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-laravel">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -406,13 +408,13 @@
                                 <a href="assets/img/portfolio/product-2.jpg" title="Product 2"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-php">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -421,13 +423,13 @@
                                 <a href="assets/img/portfolio/branding-2.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-2.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -436,13 +438,13 @@
                                 <a href="assets/img/portfolio/books-2.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/app-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -451,13 +453,13 @@
                                 <a href="assets/img/portfolio/app-3.jpg" title="App 3"
                                     data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-php">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/product-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -466,13 +468,13 @@
                                 <a href="assets/img/portfolio/product-3.jpg" title="Product 3"
                                     data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-wordpress">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/branding-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -481,13 +483,13 @@
                                 <a href="assets/img/portfolio/branding-3.jpg" title="Branding 2"
                                     data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
                     </div><!-- End Portfolio Item -->
 
-                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+                    <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-frontend">
                         <div class="portfolio-content h-100">
                             <img src="assets/img/portfolio/books-3.jpg" class="img-fluid" alt="">
                             <div class="portfolio-info">
@@ -496,7 +498,7 @@
                                 <a href="assets/img/portfolio/books-3.jpg" title="Branding 3"
                                     data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i
                                         class="bi bi-zoom-in"></i></a>
-                                <a href="portfolio-details.html" title="More Details" class="details-link"><i
+                                <a href="portfolio-details.php" title="More Details" class="details-link"><i
                                         class="bi bi-link-45deg"></i></a>
                             </div>
                         </div>
@@ -806,5 +808,5 @@
 </main>
 
 <!-- End #main -->
- 
+
 <?php include 'footer.php'; ?>
